@@ -1,0 +1,5 @@
+kaggle==1.6.17
+kagglehub==0.3.7
+pandas
+scikit-learn
+matplotlib==3.9.2

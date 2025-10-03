@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data and output files
+*.csv
+*.xlsx
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kaggle and cache directories
+.cache/
+kaggle.json
